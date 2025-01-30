@@ -11,9 +11,26 @@ Simple and interactive command-line interface.
 
 Useful for cybersecurity awareness and testing.
 
+# Requirements
+python3
 
 # Installation
 
-`git clone https://github.com/xnln7/GEN-PSD.git`
+* `git clone https://github.com/xnln7/GEN-PSD.git`
 
-`cd GEN-PSD`
+* `cd GEN-PSD`
+  
+* `python gen-psd.py`
+
+# Usage
+* `python gen-psd.py`
+* `Enter the required user information when prompted.`
+* `The tool will generate a password list based on the provided details.`
+
+
+# Disclaimer
+GEN-PSD is designed for educational and ethical cybersecurity purposes only. Do not use this tool for illegal activities. The author is not responsible for any misuse.
+
+# Contributing
+Contributions are welcome! Feel free to fork the repository, create issues, or submit pull requests.
+
